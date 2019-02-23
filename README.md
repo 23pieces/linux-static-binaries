@@ -2,6 +2,6 @@
 Linux static binaries cross compiled and linked with musl
 
 **Currently available:**
-* armel-v5-static-musl
+* armel-v5-static-musl little endian
 
 
