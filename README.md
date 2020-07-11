@@ -9,5 +9,3 @@ Linux static binaries cross compiled and linked with musl
 
 Built with buildroot.
 
-If you want to donate bitcoin please donate here:
-- 38WdQPLkxt6RnLtftUefKXMohTKLfEHSgL
